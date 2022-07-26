@@ -1,0 +1,15 @@
+C:\Users\barro\workspace\distancia\distanciaEmKm\distanciaEmKm\bin\Debug\net6.0\distanciaEmKm.exe
+C:\Users\barro\workspace\distancia\distanciaEmKm\distanciaEmKm\bin\Debug\net6.0\distanciaEmKm.deps.json
+C:\Users\barro\workspace\distancia\distanciaEmKm\distanciaEmKm\bin\Debug\net6.0\distanciaEmKm.runtimeconfig.json
+C:\Users\barro\workspace\distancia\distanciaEmKm\distanciaEmKm\bin\Debug\net6.0\distanciaEmKm.dll
+C:\Users\barro\workspace\distancia\distanciaEmKm\distanciaEmKm\bin\Debug\net6.0\distanciaEmKm.pdb
+C:\Users\barro\workspace\distancia\distanciaEmKm\distanciaEmKm\obj\Debug\net6.0\distanciaEmKm.csproj.AssemblyReference.cache
+C:\Users\barro\workspace\distancia\distanciaEmKm\distanciaEmKm\obj\Debug\net6.0\distanciaEmKm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barro\workspace\distancia\distanciaEmKm\distanciaEmKm\obj\Debug\net6.0\distanciaEmKm.AssemblyInfoInputs.cache
+C:\Users\barro\workspace\distancia\distanciaEmKm\distanciaEmKm\obj\Debug\net6.0\distanciaEmKm.AssemblyInfo.cs
+C:\Users\barro\workspace\distancia\distanciaEmKm\distanciaEmKm\obj\Debug\net6.0\distanciaEmKm.csproj.CoreCompileInputs.cache
+C:\Users\barro\workspace\distancia\distanciaEmKm\distanciaEmKm\obj\Debug\net6.0\distanciaEmKm.dll
+C:\Users\barro\workspace\distancia\distanciaEmKm\distanciaEmKm\obj\Debug\net6.0\refint\distanciaEmKm.dll
+C:\Users\barro\workspace\distancia\distanciaEmKm\distanciaEmKm\obj\Debug\net6.0\distanciaEmKm.pdb
+C:\Users\barro\workspace\distancia\distanciaEmKm\distanciaEmKm\obj\Debug\net6.0\distanciaEmKm.genruntimeconfig.cache
+C:\Users\barro\workspace\distancia\distanciaEmKm\distanciaEmKm\obj\Debug\net6.0\ref\distanciaEmKm.dll
